@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-08-04T21:01:25.859771",
+  "fir_data": {
+    "fullName": "आकाश यादव",
+    "contactNumber": "8057470553",
+    "currentAddress": "बी टी एम लेआउट बेंगलोर",
+    "aadhaarNumber": "1235746089",
+    "victimStatus": "victim",
+    "relationshipToVictim": "",
+    "incidentType": "चोरी",
+    "incidentCategory": "फोन चोरी",
+    "eventDescription": "ऑफिस से आते समय मेरा फ़ोन चोरी हो गया",
+    "incidentLocation": "बी टी एम",
+    "incidentDate": "2023-08-02",
+    "incidentTime": "16:00",
+    "suspectPhysicalDescription": "लंबा, काला, दाढ़ी वाला",
+    "suspectBehaviorDetails": "",
+    "suspectKnown": "no",
+    "suspectName": "",
+    "summaryAccurate": true,
+    "additionalChanges": ""
+  }
+}

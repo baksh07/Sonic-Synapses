@@ -1,0 +1,15 @@
+{
+<<<<<<< HEAD
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+=======
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+>>>>>>> 3e5e41d8 (Update pipecat services and add new examples - excluding audio files)
+}

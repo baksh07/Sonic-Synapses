@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-08-04T20:02:02.097766",
+  "fir_data": {
+    "fullName": "कमलाकर देव की",
+    "contactNumber": "9535812121",
+    "currentAddress": "बीटीएम लेआउट",
+    "aadhaarNumber": "1234568910",
+    "victimStatus": "victim",
+    "relationshipToVictim": "",
+    "incidentType": "चोरी",
+    "incidentCategory": "संपत्ति",
+    "eventDescription": "ऑफिस में चांदी के सिक्के चोरी",
+    "incidentLocation": "बीटीएम लेआउट ऑफिस",
+    "incidentDate": "2023-11-01",
+    "incidentTime": "",
+    "suspectPhysicalDescription": "",
+    "suspectBehaviorDetails": "ऑफिस के किसी व्यक्ति पर शक",
+    "suspectKnown": "no",
+    "suspectName": "",
+    "summaryAccurate": true,
+    "additionalChanges": "आईटी विभाग में काम"
+  }
+}

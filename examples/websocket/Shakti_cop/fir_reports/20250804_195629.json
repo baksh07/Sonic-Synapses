@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-08-04T19:56:29.584457",
+  "fir_data": {
+    "fullName": "आपास",
+    "contactNumber": "",
+    "currentAddress": "बी टी एम ले आउट",
+    "aadhaarNumber": "",
+    "victimStatus": "victim",
+    "relationshipToVictim": "",
+    "incidentType": "Theft",
+    "incidentCategory": "Mobile Snatching",
+    "eventDescription": "सड़क पर चलते समय किसी ने फ़ोन छीन लिया",
+    "incidentLocation": "बी टी एम ले आउट",
+    "incidentDate": "2023-08-04",
+    "incidentTime": "12:00",
+    "suspectPhysicalDescription": "लंबा और घोड़ा",
+    "suspectBehaviorDetails": "",
+    "suspectKnown": "no",
+    "suspectName": "",
+    "summaryAccurate": true,
+    "additionalChanges": ""
+  }
+}

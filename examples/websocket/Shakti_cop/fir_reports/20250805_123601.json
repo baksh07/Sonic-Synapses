@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-08-05T12:36:01.827138",
+  "fir_data": {
+    "fullName": "आकाश",
+    "contactNumber": "9922334455",
+    "currentAddress": "बी टी एम लेआउट",
+    "aadhaarNumber": "",
+    "victimStatus": "victim",
+    "relationshipToVictim": "",
+    "incidentType": "बलात्कार",
+    "incidentCategory": "शारीरिक हमला",
+    "eventDescription": "ऑफिस में विष्णु ने हमला किया, पीड़िता बेहोश हुई।",
+    "incidentLocation": "बी टी एम लेआउट बी आई पे",
+    "incidentDate": "2023-08-04",
+    "incidentTime": "17:00",
+    "suspectPhysicalDescription": "लंबा, दाढ़ी, लंबे बाल",
+    "suspectBehaviorDetails": "सुन नहीं पा रहा था, इज्जत नहीं की",
+    "suspectKnown": "yes",
+    "suspectName": "विष्णु",
+    "summaryAccurate": true,
+    "additionalChanges": ""
+  }
+}

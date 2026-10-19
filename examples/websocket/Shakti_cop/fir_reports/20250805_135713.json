@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-08-05T13:57:13.401015",
+  "fir_data": {
+    "fullName": "आकाश यादव",
+    "contactNumber": "805470553",
+    "currentAddress": "बीटीएम लेआउट",
+    "aadhaarNumber": "80557889922",
+    "victimStatus": "victim",
+    "relationshipToVictim": "",
+    "incidentType": "चोरी",
+    "incidentCategory": "फ़ोन चोरी",
+    "eventDescription": "रास्ते में एक आदमी आया और मेरे हाथ से फ़ोन छीन के ले गया",
+    "incidentLocation": "सिल्क बोर्ड",
+    "incidentDate": "2023-08-04",
+    "incidentTime": "17:00",
+    "suspectPhysicalDescription": "लंबा, काली डाढ़ी, काला",
+    "suspectBehaviorDetails": "",
+    "suspectKnown": "no",
+    "suspectName": "",
+    "summaryAccurate": true,
+    "additionalChanges": ""
+  }
+}
