@@ -31,8 +31,8 @@ A comprehensive Python framework for building real-time voice and multimodal con
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
-cd voice-bot-framework
+git clone https://github.com/baksh07/Sonic-Synapses.git
+cd Sonic-Synapses
 ```
 
 2. **Create a virtual environment:**
@@ -277,7 +277,7 @@ pytest tests/integration/
 ## 📁 Project Structure
 
 ```
-voice-bot-framework/
+Sonic-Synapses/
 ├── src/pipecat/           # Core framework
 ├── examples/              # Example applications
 │   ├── simple-chatbot/    # Basic voice bot
